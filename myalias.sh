@@ -1,0 +1,6 @@
+alias isup="cd ~;sh isup.sh "
+alias fwpy="cd ~;sh fwpy.sh "
+alias matlab="cd ~/Desktop/TUM\ courses;sh matlab.sh"
+alias grep="grep --color "
+alias ls="ls -G"
+alias weather="curl wttr.in"
